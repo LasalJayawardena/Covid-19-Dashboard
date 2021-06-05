@@ -8,5 +8,5 @@ A live Covid 19 Dashboard which brings a wide variety of information to your fin
 <img style="margin-top:30px" src="./Dashboard2.png">
 <img style="margin-top:30px" src="./Dashboard3.png">
 <img style="margin-top:30px" src="./Dashboard4.png">
-<img style="margin-top:30px" src="./Dashboard5png">
+<img style="margin-top:30px" src="./Dashboard5.png">
 <img style="margin-top:30px" src="./Dashboard6.png">
